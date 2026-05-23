@@ -1,0 +1,122 @@
+{
+    "Hyperlaser Gun": {
+        "Name": "HyperlaserGun",
+        "ID": 130113146
+    },
+    "Red Hyperlaser Gun": {
+        "Name": "RedHyperLaser",
+        "ID": 212296936
+    },
+    "Tri-Laser 333": {
+        "Name": "TriLaserGun",
+        "ID": 139578207
+    },
+    "Descendants Spray Can": {
+        "Name": "Descendants-GraffittiSprayCan",
+        "ID": 273795078
+    },
+    "Cloak of the Undying": {
+        "Name": "CloakOfTheUndyingBat",
+        "ID": 94794833
+    },
+    "Vine Staff": {
+        "Name": "VineStaff",
+        "ID": 30847733
+    },
+    "Ninja Blink Potion": {
+        "Name": "NinjaBlink",
+        "ID": 47597835
+    },
+    "Mad Murderer Knife": {
+        "Name": "MadMurdererKnife",
+        "ID": 170897263
+    },
+    "Ghost Dragon": {
+        "Name": "GhostDragon",
+        "ID": 94233391
+    },
+    "Crescendo, The Soul Stealer": {
+        "Name": "CrescendoTheSoulStealer",
+        "ID": 94794774
+    },
+    "Body Swap Potion": {
+        "Name": "BodySwapPotion",
+        "ID": 78730532
+    },
+    "Scaley, the Dragon": {
+        "Name": "GreenDragon",
+        "ID": 110702207
+    },
+    "Dual Plungers": {
+        "Name": "DualPlungers",
+        "ID": 114690870
+    },
+    "Nuclear Arms ": {
+        "Name": "ArmRocket",
+        "ID": 84419543
+    },
+    "Blizzard Wand": {
+        "Name": "BlizzardWand",
+        "ID": 68354832
+    },
+    "Rubyhorde the Rapacious' Treasure": {
+        "Name": "RubyhordeTheRapacious'Treasure",
+        "ID": 117544573
+    },
+    "Airstrike": {
+        "Name": "Tactical Airstrike",
+        "ID": 88885539
+    },
+    "Darksteel Katana of Ancient Illuminators": {
+        "Name": "DarksteelKatanaOfAncientIlluminators",
+        "ID": 86494893
+    },
+    "Shadow Master Katana": {
+        "Name": "ShadowMasterKatana",
+        "ID": 121121915
+    },
+    "Scroll of Sevenless": {
+        "Name": "ScrollOfSevenless",
+        "ID": 125013830
+    },
+    "Knights of the Splintered Skies: Wind Summoner": {
+        "Name": "KOSSGustHorn",
+        "ID": 127506257
+    },
+    "Bear Mine Gun": {
+        "Name": "BearMineGun",
+        "ID": 90718350
+    },
+    "Heat Seeking Missile Launcher": {
+        "Name": "LockonLauncher",
+        "ID": 67747912
+    },
+    "Beehive": {
+        "Name": "BeeHive",
+        "ID": 117498775
+    },
+    "Land Shark Shooter": {
+        "Name": "LandSharkShooter",
+        "ID": 118281463
+    },
+    "The Fiery Sun": {
+        "Name": "TheFierySun",
+        "ID": 83021250
+    },
+    "Nightmare Dragon Slayer": {
+        "Name": "NightmareDragonSlayerSword",
+        "ID": 1103011681
+    },
+    "Azure Dragon's Magic Slayer": {
+        "Name": "AzureDragonMagicSlayerSword",
+        "ID": 268586231
+    },
+    "Noir Periastron Psi": {
+        "Name": "NoirPeriastron",
+        "ID": 120307951
+    },
+    "Poseidon's Quake Trident": {
+        "Name": "PoseidonsQuakeTrident",
+        "ID": 54130559
+    }
+}

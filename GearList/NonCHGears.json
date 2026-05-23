@@ -1,0 +1,1626 @@
+{
+    "Fake Egg Spawner": {
+        "Name": "FakeEggSpawner",
+        "ID": 220288991
+    },
+    "Forbidden Box": {
+        "Name": "Puzzle Box",
+        "ID": 95354259
+    },
+    "Shadow Sword": {
+        "Name": "Shadow Blade",
+        "ID": 103359953
+    },
+    "Dynamically Lit Sword": {
+        "Name": "Dynamically Lit Sword",
+        "ID": 160198363
+    },
+    "Adalinda's Anlance": {
+        "Name": "Sword of the Green Dragon",
+        "ID": 78665204
+    },
+    "Potato Cannon": {
+        "Name": "PotatoCannon",
+        "ID": 81847365
+    },
+    "Gear Cloner": {
+        "Name": "Gear Cloner",
+        "ID": 97161295
+    },
+    "ROBLOX Classic Brigand's Sword": {
+        "Name": "KnightsSword",
+        "ID": 10468915
+    },
+    "Candy Cane Launcher": {
+        "Name": "CandyCaneLauncher",
+        "ID": 101078326
+    },
+    "Rainbow Periastron Omega": {
+        "Name": "RainbowPeriastron",
+        "ID": 159229806
+    },
+    "First Aid Kit": {
+        "Name": "Medkit",
+        "ID": 15397778
+    },
+    "First Aid Kit(Alt)": {
+        "Name": "Medkit",
+        "ID": 45201977
+    },
+    "Helper Cannon": {
+        "Name": "Helper Cannon",
+        "ID": 84417104
+    },
+    "Knights of the Splintered Skies: Bow and Arrow ": {
+        "Name": "SkyBow",
+        "ID": 55917429
+    },
+    "Egg Cannon 9000": {
+        "Name": "EggCannon",
+        "ID": 76768897
+    },
+    "High Five": {
+        "Name": "HiFive",
+        "ID": 72644603
+    },
+    "Magic Lamp": {
+        "Name": "MagicLamp",
+        "ID": 71037056
+    },
+    "Surface Tool": {
+        "Name": "BuildSurface",
+        "ID": 16200508
+    },
+    "BuildInsert": {
+        "Name": "BuildInsert",
+        "ID": 36431591
+    },
+    "Zombification Injection": {
+        "Name": "ZombieSyringe",
+        "ID": 93536867
+    },
+    "Starfish Shooter": {
+        "Name": "StarfishGun",
+        "ID": 54130552
+    },
+    "Laser Finger Pointers": {
+        "Name": "LaserFingerPointers",
+        "ID": 115377964
+    },
+    "Steampunk Bow": {
+        "Name": "SteampunkBow",
+        "ID": 184760397
+    },
+    "Hiccup's Flaming Sword - Sponsored by HTTYD2": {
+        "Name": "HiccupsSword",
+        "ID": 161075864
+    },
+    "ROBLOX Grab Bag": {
+        "Name": "GrabBag",
+        "ID": 34398653
+    },
+    "Merely's Sparkle Time Hoverboard": {
+        "Name": "Merely'sSparkleTimeHoverboard",
+        "ID": 124127383
+    },
+    "Rocket Launcher": {
+        "Name": "BigRocketLauncher",
+        "ID": 32356064
+    },
+    "Bo Staff 7000": {
+        "Name": "BoStaff7000",
+        "ID": 159199263
+    },
+    "Pyrox's Flame Staff": {
+        "Name": "FlameStaff",
+        "ID": 105179506
+    },
+    "Gamer's Guide Controller": {
+        "Name": "DXD_GamersGuideToEverything",
+        "ID": 252564167
+    },
+    "Bat Blade": {
+        "Name": "BatLeth",
+        "ID": 63721724
+    },
+    "Ghost Blaster": {
+        "Name": "Ghost Gun",
+        "ID": 94233367
+    },
+    "Super Tone Cape": {
+        "Name": "ToneCape",
+        "ID": 130925426
+    },
+    "Staff of Gloomy Grip": {
+        "Name": "StaffOfGloomyGrip",
+        "ID": 33382711
+    },
+    "Agent 99's Laser Goggles": {
+        "Name": "LaserSpecs",
+        "ID": 100472084
+    },
+    "BuildColorTester": {
+        "Name": "BuildColorTester",
+        "ID": 35205409
+    },
+    "Ninja Sticky Bomb": {
+        "Name": "NinjaStickyBomb",
+        "ID": 64869947
+    },
+    "Fundroid Blaster": {
+        "Name": "Fundroid Blaster",
+        "ID": 114552541
+    },
+    "The United Staff of America": {
+        "Name": "America Staff",
+        "ID": 161219985
+    },
+    "Icicle Slicer - A Gamestop Exclusive": {
+        "Name": "IcicleSword",
+        "ID": 66823689
+    },
+    "Dance Grenade": {
+        "Name": "Dance Grenade",
+        "ID": 65545955
+    },
+    "Chupacabra": {
+        "Name": "Chupacabra",
+        "ID": 126704033
+    },
+    "My Big Fat Zombie Goldfish: The Seaquel": {
+        "Name": "ZombieGoldfish",
+        "ID": 149222485
+    },
+    "Psychokinesis Glove": {
+        "Name": "PowerGlove",
+        "ID": 91360081
+    },
+    "Emergency Rations": {
+        "Name": "Emergency Rations",
+        "ID": 97885572
+    },
+    "WiringTool": {
+        "Name": "WiringTool",
+        "ID": 60791062
+    },
+    "WiringTool(Duplicate)": {
+        "Name": "WiringTool",
+        "ID": 73089259
+    },
+    "Wizards of the Astral Isles: Pegasus": {
+        "Name": "Pegasus",
+        "ID": 106701659
+    },
+    "Instant Campfire": {
+        "Name": "InstantCampfire",
+        "ID": 123234510
+    },
+    "The Merry Avenger": {
+        "Name": "SantaSword",
+        "ID": 67319425
+    },
+    "Scuba Gear Starfish": {
+        "Name": "ThrowingStarfish",
+        "ID": 845518976
+    },
+    "BuildCloneTest": {
+        "Name": "BuildClone",
+        "ID": 36017373
+    },
+    "Human Rocket": {
+        "Name": "HumanRocket",
+        "ID": 119917487
+    },
+    "Deluxe Pumpkin Pie": {
+        "Name": "PumpkinPie",
+        "ID": 65969749
+    },
+    "Ogre Friend": {
+        "Name": "OgrePlushie",
+        "ID": 116055112
+    },
+    "Squid Ink Bomb": {
+        "Name": "SquidGun",
+        "ID": 118281609
+    },
+    "Atmoblaster 777": {
+        "Name": "Atmoblaster777",
+        "ID": 50937815
+    },
+    "Trilaser Bow": {
+        "Name": "FutureBow",
+        "ID": 130112971
+    },
+    "Bo Staff": {
+        "Name": "Ninja Staff",
+        "ID": 47262951
+    },
+    "Zombie Grip Bomb": {
+        "Name": "ZombieGripBomb",
+        "ID": 89491407
+    },
+    "OwnerCameraTool": {
+        "Name": "OwnerCameraTool",
+        "ID": 65347268
+    },
+    "Breath of Fire": {
+        "Name": "Fire Breathing",
+        "ID": 168140516
+    },
+    "Carrot Slingshot": {
+        "Name": "CarrotSlingshot",
+        "ID": 738924664
+    },
+    "Turkey's Vengeance Sword": {
+        "Name": "TurkeySword",
+        "ID": 65969704
+    },
+    "Dynamically Lit Bow and Arrow": {
+        "Name": "DynamicallyLitBow",
+        "ID": 160198008
+    },
+    "Love Hurts Ray Gun": {
+        "Name": "LoveRaygun",
+        "ID": 106064447
+    },
+    "Arabian Knight Scimitar": {
+        "Name": "Scimitar",
+        "ID": 71037076
+    },
+    "CJJs Guide to Making Money   ": {
+        "Name": "Charlie Joe Jackson",
+        "ID": 174418144
+    },
+    "Personal Fighter Jets(Duplicate)": {
+        "Name": "PersonalJets-DesertEdition",
+        "ID": 113299641
+    },
+    "RoVacuum 2012 ": {
+        "Name": "Vacuum",
+        "ID": 84418938
+    },
+    "Dual Venomshanks": {
+        "Name": "DualVenomshanks",
+        "ID": 158069180
+    },
+    "Zombie Slayer": {
+        "Name": "Zombie Slayer",
+        "ID": 64735604
+    },
+    "Toothless": {
+        "Name": "Toothless",
+        "ID": 159913543
+    },
+    "Rising Sun Katana": {
+        "Name": "RisingSunKatana",
+        "ID": 67998086
+    },
+    "Ruby Encrusted Sword of the Mighty": {
+        "Name": "GemSword",
+        "ID": 54694311
+    },
+    "Spray Paint": {
+        "Name": "Spray",
+        "ID": 80576967
+    },
+    "BuildMaterialTest": {
+        "Name": "BuildMaterialTest",
+        "ID": 35223828
+    },
+    "Native Bow and Arrow": {
+        "Name": "NativeAmericanBow",
+        "ID": 65969758
+    },
+    "Dark Avenger's Sword & Shield": {
+        "Name": "DarkKnightSwordAndShield",
+        "ID": 139581823
+    },
+    "Dark Spellbook of the Forgotten": {
+        "Name": "DarkSpellbookOfTheForgotten",
+        "ID": 56561579
+    },
+    "Emerald Knights of the Seventh Sanctum Staff": {
+        "Name": "Wizard Staff",
+        "ID": 128162713
+    },
+    "Four-In-A-Row": {
+        "Name": "FourInARow",
+        "ID": 18210455
+    },
+    "Winter Wolf Warrior's Mace": {
+        "Name": "WarMace",
+        "ID": 193743245
+    },
+    "Landmine": {
+        "Name": "DegearingMine",
+        "ID": 88870392
+    },
+    "Hammer of Eternal Frost": {
+        "Name": "FreezingHammer",
+        "ID": 71422327
+    },
+    "The 7Ds Grumpy": {
+        "Name": "Grump Dwarf",
+        "ID": 163488515
+    },
+    "Wall Walker": {
+        "Name": "ElevatorSummoner",
+        "ID": 35683911
+    },
+    "Battle Bottle": {
+        "Name": "BattleBottle",
+        "ID": 101106464
+    },
+    "Katana of the Ninth Moon": {
+        "Name": "MoonKatana",
+        "ID": 78665196
+    },
+    "BuildResize": {
+        "Name": "BuildResize",
+        "ID": 36738142
+    },
+    "BuildResize(Duplicate)": {
+        "Name": "BuildResize",
+        "ID": 58901534
+    },
+    "Illuminating Spear of Revengeance": {
+        "Name": "FantasySpear",
+        "ID": 69947379
+    },
+    "Duelling Glove": {
+        "Name": "SlappingGlove",
+        "ID": 75556791
+    },
+    "Lucky Clover": {
+        "Name": "Clover",
+        "ID": 74904387
+    },
+    "PE Whistle": {
+        "Name": "Whistle",
+        "ID": 128160832
+    },
+    "Steam Engine": {
+        "Name": "SteamTrain",
+        "ID": 157205782
+    },
+    "Rainbow Katana": {
+        "Name": "RainbowKatana",
+        "ID": 158069071
+    },
+    "Noble RedCliff Eagle": {
+        "Name": "RedCliffEagle",
+        "ID": 51347716
+    },
+    "Korblox Bone Mace": {
+        "Name": "KorbloxBoneMace",
+        "ID": 156467855
+    },
+    "Werewolf Claws": {
+        "Name": "Werewolf Claws",
+        "ID": 95484098
+    },
+    "Firework Last Year": {
+        "Name": "Rocket1",
+        "ID": 29957963
+    },
+    "Festive Sentry": {
+        "Name": "FestiveSentryTurret",
+        "ID": 139577997
+    },
+    "Stinky Skunk": {
+        "Name": "Skunk",
+        "ID": 123234626
+    },
+    "Skarra, the Dragonkeeper's Red Sword & Shield": {
+        "Name": "DragonKnightSword",
+        "ID": 109364052
+    },
+    "TombQuest Book 1": {
+        "Name": "Tombquest Book",
+        "ID": 245617341
+    },
+    "Angry Attack Squirrel": {
+        "Name": "Squirrel Pet",
+        "ID": 114687251
+    },
+    "Vanishing Ninja Star": {
+        "Name": "VanishingNinjaStar",
+        "ID": 129471170
+    },
+    "Stun Grenade": {
+        "Name": "StunGrenade",
+        "ID": 88885524
+    },
+    "Gear of the Week: Paper Airplane": {
+        "Name": "PaperPlaneGear",
+        "ID": 21440340
+    },
+    "Retribution Ray": {
+        "Name": "EpicLaser",
+        "ID": 85879456
+    },
+    "Mars Mission 1 Blaster": {
+        "Name": "Mars Mission 1 Blaster",
+        "ID": 148017553
+    },
+    "BuildInsertTester": {
+        "Name": "BuildInsertTester",
+        "ID": 35268363
+    },
+    "Rose Launcher": {
+        "Name": "RoseLauncher",
+        "ID": 146047247
+    },
+    "Raig Chair": {
+        "Name": "FoldingChair",
+        "ID": 151291980
+    },
+    "Rapid Candy Launcher": {
+        "Name": "RapidCandyLauncher",
+        "ID": 181245219
+    },
+    "Ghost Ship": {
+        "Name": "GhostShip",
+        "ID": 155662051
+    },
+    "The Sea's Revenge": {
+        "Name": "MermaidTears",
+        "ID": 71597027
+    },
+    "Dracovin's Wand": {
+        "Name": "WizardWand",
+        "ID": 56561607
+    },
+    "Danger Mace": {
+        "Name": "Spiky Mace",
+        "ID": 100469994
+    },
+    "Team ROBLOX Bobsled": {
+        "Name": "Bobsled",
+        "ID": 143606297
+    },
+    "Dance Potion": {
+        "Name": "DancePotion",
+        "ID": 27858062
+    },
+    "Korblox Bone & Arrow": {
+        "Name": "Bone & Arrow",
+        "ID": 95951270
+    },
+    "The Blackthorn Key": {
+        "Name": "BK Book",
+        "ID": 294950095
+    },
+    "Candy Cane Katana - A Walmart Exclusive!": {
+        "Name": "ChristmasKatana",
+        "ID": 66823631
+    },
+    "Bunneh Blade": {
+        "Name": "BunnyBlade",
+        "ID": 153939072
+    },
+    "Candy Bomb": {
+        "Name": "CandyBomb",
+        "ID": 181245120
+    },
+    "Shards in the Code: Season One - Episode 1": {
+        "Name": "InifiniteWorlds",
+        "ID": 190111117
+    },
+    "Hot Wheels Gold Car": {
+        "Name": "HotWheels",
+        "ID": 152660131
+    },
+    "Mardi G-Ray Gun": {
+        "Name": "MardiGrasLaser",
+        "ID": 147937377
+    },
+    "Granny's Crossbow": {
+        "Name": "GrannysCrossBow",
+        "ID": 16986649
+    },
+    "Carnagecopia": {
+        "Name": "Carnagecopia",
+        "ID": 98346415
+    },
+    "Giant Angelic Sword": {
+        "Name": "GiantAngelicSword",
+        "ID": 184758713
+    },
+    "Battle Sleighs!": {
+        "Name": "BattleSleighs",
+        "ID": 41855117
+    },
+    "Santa's Jolly Jetpack": {
+        "Name": "Santa's JetPack",
+        "ID": 67319408
+    },
+    "Emerald Knights of the Seventh Sanctum Spellbook": {
+        "Name": "Emerald Spells",
+        "ID": 128162639
+    },
+    "Medusa Head": {
+        "Name": "MedusaHead",
+        "ID": 89487934
+    },
+    "Suit Up Gun": {
+        "Name": "OutfitController",
+        "ID": 91360052
+    },
+    "Gravitron 3000": {
+        "Name": "GravityBomb",
+        "ID": 74385438
+    },
+    "Rangers Apprentice: The Ruins of Gorlan ": {
+        "Name": "Ranger's Apprentice",
+        "ID": 164017027
+    },
+    "ROBLOX Invisicar ": {
+        "Name": "Invisible Car",
+        "ID": 129471151
+    },
+    "Fake Chartreuse Periastron Gamma ": {
+        "Name": "FakeChartreusePeriastron",
+        "ID": 80597060
+    },
+    "Harpoon": {
+        "Name": "HarpoonGun",
+        "ID": 118281529
+    },
+    "Staff of Crimson Chaos Fire": {
+        "Name": "FireStaff",
+        "ID": 32858741
+    },
+    "Checkerboard Sword": {
+        "Name": "Mahjong Sword",
+        "ID": 46132907
+    },
+    "Configuration Tool": {
+        "Name": "BuildConfiguration",
+        "ID": 16975388
+    },
+    "Giant Ape Arms": {
+        "Name": "ApeArms",
+        "ID": 126719120
+    },
+    "Chief Guardsman Spear": {
+        "Name": "Spear",
+        "ID": 62350846
+    },
+    "ConfigTool": {
+        "Name": "ConfigTool",
+        "ID": 73089239
+    },
+    "Vampire Vanquisher: Sword and Shield": {
+        "Name": "VampireVanquisher",
+        "ID": 94794847
+    },
+    "ClassicTool": {
+        "Name": "ClassicTool",
+        "ID": 58921588
+    },
+    "Axe of Blinding Justice": {
+        "Name": "BlindingLightAxe",
+        "ID": 183665514
+    },
+    "stampbuild": {
+        "Name": "StamperTool",
+        "ID": 55028088
+    },
+    "Giant Skeleton Arm": {
+        "Name": "Giant Skeleton Hand",
+        "ID": 181469197
+    },
+    "Giant Blade": {
+        "Name": "Giant Blade",
+        "ID": 96669697
+    },
+    "Saxophone(Alt)": {
+        "Name": "Saxophone",
+        "ID": 45094376
+    },
+    "Deluxe Mechatronic Spider": {
+        "Name": "RobotSpider",
+        "ID": 300410436
+    },
+    "The Archon Blade": {
+        "Name": "ArchonBlade",
+        "ID": 105430216
+    },
+    "Battling Boy ": {
+        "Name": "Battling Boy Book",
+        "ID": 132870835
+    },
+    "Battle Wagons!": {
+        "Name": "BattleWagons",
+        "ID": 27471379
+    },
+    "Mechatronic Spider": {
+        "Name": "Metatronic Spider",
+        "ID": 116040789
+    },
+    "Fang Of Anansi": {
+        "Name": "FangOfAnansi",
+        "ID": 116693735
+    },
+    "R-Orb": {
+        "Name": "Ro-Orb",
+        "ID": 98411393
+    },
+    "Telewarp ": {
+        "Name": "Warp Point",
+        "ID": 97311482
+    },
+    "Sorcus Stool": {
+        "Name": "Stool",
+        "ID": 110703943
+    },
+    "Patriot's Monster Truck": {
+        "Name": "American Monster Truck",
+        "ID": 161282711
+    },
+    "Skeleton Bomb": {
+        "Name": "Skeleton Bomb",
+        "ID": 95951359
+    },
+    "Indomitus Leo: A Walmart Exclusive Item": {
+        "Name": "LionheadSword",
+        "ID": 64870000
+    },
+    "ROBLOX Egg Launcher 2017": {
+        "Name": "2017AdminEggLauncher",
+        "ID": 709229848
+    },
+    "Trip Wire": {
+        "Name": "Tripwire Device",
+        "ID": 97885289
+    },
+    "Skipper Seal": {
+        "Name": "FirstMateSeal",
+        "ID": 155696189
+    },
+    "Tempest Blades": {
+        "Name": "TempestBlades",
+        "ID": 68478587
+    },
+    "Amethyst Periastron Kappa": {
+        "Name": "AmethystPeriastron",
+        "ID": 93136802
+    },
+    "Rubber Chicken Wand": {
+        "Name": "ChickenWand",
+        "ID": 75550883
+    },
+    "Captain Steelshanks Recruiting Staff": {
+        "Name": "PirateStickOfDiscipline",
+        "ID": 71597060
+    },
+    "BuildSurfaceTest": {
+        "Name": "BuildSurfaceTest",
+        "ID": 35226945
+    },
+    "Knights of Redcliff: Deluxe Sword and Shield Set": {
+        "Name": "RedcliffSword",
+        "ID": 127506364
+    },
+    "Spikesplosion": {
+        "Name": "SpikeGrenade",
+        "ID": 73888479
+    },
+    "Steelshanks Armament": {
+        "Name": "PirateFlintockSword",
+        "ID": 71597048
+    },
+    "Bladed Tutu": {
+        "Name": "BladedTutu",
+        "ID": 168141496
+    },
+    "Go Fish": {
+        "Name": "Trout",
+        "ID": 58574452
+    },
+    "Molecular Atomizer": {
+        "Name": "MolecularAtomizer",
+        "ID": 94119269
+    },
+    "The Awe Star": {
+        "Name": "AweStar",
+        "ID": 18010691
+    },
+    "Retro Candy": {
+        "Name": "EightBitCandy",
+        "ID": 65079094
+    },
+    "Egg Cannon 2013": {
+        "Name": "Egg Launcher",
+        "ID": 110337884
+    },
+    "Untimely Crossbow": {
+        "Name": "PumpkinCrossbow",
+        "ID": 58574431
+    },
+    "Trollamon": {
+        "Name": "TelamonTool",
+        "ID": 105189783
+    },
+    "Sleep Wand": {
+        "Name": "SleepWand",
+        "ID": 141759818
+    },
+    "Holiday Ray Gun": {
+        "Name": "Xmas Light Wrapper",
+        "ID": 99206951
+    },
+    "Tic Tac Toe Board": {
+        "Name": "TicTacToe",
+        "ID": 16924676
+    },
+    "Stealth Ninja Potion": {
+        "Name": "NinjaPotion",
+        "ID": 86492467
+    },
+    "Sports Victory Blaster": {
+        "Name": "Dance Raygun",
+        "ID": 75550907
+    },
+    "Flak Cannon": {
+        "Name": "FlakCannon",
+        "ID": 78005022
+    },
+    "Math Homework": {
+        "Name": "Math Homework",
+        "ID": 22788102
+    },
+    "S-79 Speed Stunter": {
+        "Name": "SpeedStunter",
+        "ID": 88885497
+    },
+    "Lightning McQueen Companion": {
+        "Name": "LightningCompanion",
+        "ID": 790979662
+    },
+    "Not-so-friendly Ghost": {
+        "Name": "FloatingHead",
+        "ID": 126719093
+    },
+    "Redcliff Ballista": {
+        "Name": "RedcliffBallista",
+        "ID": 156467963
+    },
+    "BuildPaint": {
+        "Name": "BuildPaint",
+        "ID": 58901481
+    },
+    "ROBLOXIAN Damage Orb": {
+        "Name": "DamageOrbRed",
+        "ID": 103338520
+    },
+    "Smashing Drum": {
+        "Name": "Drum",
+        "ID": 139578061
+    },
+    "Time Bomb": {
+        "Name": "Time Bomb",
+        "ID": 80576952
+    },
+    "Azurewrath's Return": {
+        "Name": "BoomerangDagger",
+        "ID": 59190543
+    },
+    "Implosion Bomb": {
+        "Name": "Implosion Bomb",
+        "ID": 108875216
+    },
+    "Pigs Boson Collider": {
+        "Name": "PigsBoson",
+        "ID": 88143093
+    },
+    "Battle Axe": {
+        "Name": "BattleAxe",
+        "ID": 27171403
+    },
+    "Resize Tool": {
+        "Name": "BuildResize",
+        "ID": 16969792
+    },
+    "Fire Extinguisher": {
+        "Name": "FireExtinguisher",
+        "ID": 31839411
+    },
+    "Model Dragger": {
+        "Name": "Dragger",
+        "ID": 16200199
+    },
+    "Dusek Car": {
+        "Name": "RCDusek",
+        "ID": 42845684
+    },
+    "Trophy of Wheeled Participation 2014": {
+        "Name": "RaceTrophy",
+        "ID": 148790984
+    },
+    "Trophy of Wheeled Participation 2014(Duplicate)": {
+        "Name": "RaceTrophy",
+        "ID": 147948041
+    },
+    "Egg Cannon 2014": {
+        "Name": "Egg Cannon 2014",
+        "ID": 152823565
+    },
+    "Insert Tool": {
+        "Name": "BuildInsert",
+        "ID": 21001552
+    },
+    "Angalacon's Crossbow": {
+        "Name": "Angalacon's Crossbow",
+        "ID": 101715440
+    },
+    "Paper Sword": {
+        "Name": "PaperSword",
+        "ID": 57229357
+    },
+    "Monster Attack": {
+        "Name": "HornPotion",
+        "ID": 126719148
+    },
+    "Staff of Azure Ever Ice": {
+        "Name": "IceStaff",
+        "ID": 32858662
+    },
+    "Salute": {
+        "Name": "Forced Salute Badge",
+        "ID": 79446433
+    },
+    "Material Tool": {
+        "Name": "BuildMaterial",
+        "ID": 16200420
+    },
+    "BuildRotate": {
+        "Name": "RotateTool",
+        "ID": 73089214
+    },
+    "Atmoshocker": {
+        "Name": "Spear",
+        "ID": 73829214
+    },
+    "Zombie Bomb": {
+        "Name": "Zombie Grenade",
+        "ID": 93536827
+    },
+    "Discus 2012": {
+        "Name": "OlympicDiscus",
+        "ID": 88885268
+    },
+    "Uppercut Sword": {
+        "Name": "UpperSword",
+        "ID": 93136674
+    },
+    "The Tormentor's Axe": {
+        "Name": "AlienAxe",
+        "ID": 61459718
+    },
+    "Stinky Underwear Launcher": {
+        "Name": "Underwear Gun",
+        "ID": 121385230
+    },
+    "Wraith's Screech Potion": {
+        "Name": "ScreamPotion",
+        "ID": 73232825
+    },
+    "Sci-Fi MedVac 4300": {
+        "Name": "Medpack",
+        "ID": 78005082
+    },
+    "Sharp Looking Hat - the Gear": {
+        "Name": "Sharp Hat",
+        "ID": 100472063
+    },
+    "Zombie Dog": {
+        "Name": "ZombieDog",
+        "ID": 121385262
+    },
+    "Color Paintbrush": {
+        "Name": "BuildColor",
+        "ID": 16200373
+    },
+    "Megaphone": {
+        "Name": "Megaphone",
+        "ID": 44116233
+    },
+    "Battle Slingshot": {
+        "Name": "Slingshot",
+        "ID": 125013799
+    },
+    "Winter Snow Sled": {
+        "Name": "WinterSled",
+        "ID": 99119261
+    },
+    "Trophy of Participation 2016(Duplicate)": {
+        "Name": "RaceTrophy",
+        "ID": 439315202
+    },
+    "Staff of Staff": {
+        "Name": "StaffOfStaff",
+        "ID": 151292047
+    },
+    "An Elegant Blade": {
+        "Name": "LaserSword",
+        "ID": 44561450
+    },
+    "Anchor Cannon": {
+        "Name": "AnchorCannon",
+        "ID": 155662087
+    },
+    "Civil War Artillery": {
+        "Name": "CivilWarCannon",
+        "ID": 174752553
+    },
+    "ROBLOX Toys R Us Card": {
+        "Name": "PrepaidToysRUsCard",
+        "ID": 35809502
+    },
+    "Seahorse": {
+        "Name": "SeaHorse",
+        "ID": 118281490
+    },
+    "DarkAge Assassin Crossbow": {
+        "Name": "Ninja Crossbow",
+        "ID": 86492583
+    },
+    "Flaming Halberd": {
+        "Name": "Flaming Halberd",
+        "ID": 168140813
+    },
+    "Galactic Forcefield Glove": {
+        "Name": "ForceGlove",
+        "ID": 85879447
+    },
+    "Ego Expander 2400": {
+        "Name": "BigHeadGun",
+        "ID": 26774629
+    },
+    "Troll Summoner": {
+        "Name": "TrollSummoner",
+        "ID": 181245094
+    },
+    "Bluesteel Midas Hand": {
+        "Name": "BluesteelMidasHand",
+        "ID": 163354553
+    },
+    "Heathers Boots(Duplicate)": {
+        "Name": "HTTYD-Heather'sBoots",
+        "ID": 257838919
+    },
+    "Giant Iron Sword of Sundering": {
+        "Name": "IronSword",
+        "ID": 71422340
+    },
+    "Fake C4": {
+        "Name": "Fake Bomb",
+        "ID": 104642566
+    },
+    "Poisoned Apple": {
+        "Name": "PoisonedApple",
+        "ID": 64447616
+    },
+    "Brighteyes's Sparkling Shillelagh ": {
+        "Name": "Shillelagh",
+        "ID": 53130850
+    },
+    "Frozen Fury of the Bloxian Order's Smoke Bomb": {
+        "Name": "NinjaSmokeBomb",
+        "ID": 209980135
+    },
+    "Triple Plungers": {
+        "Name": "TripplePlungers",
+        "ID": 161211085
+    },
+    "BuildColorTest": {
+        "Name": "BuildColor",
+        "ID": 35200756
+    },
+    "BuildColorTest(Duplicate)": {
+        "Name": "BuildColor",
+        "ID": 35201552
+    },
+    "Torso Cannon ": {
+        "Name": "Torso Cannon",
+        "ID": 85879465
+    },
+    "BFG Dream Horn": {
+        "Name": "BFGDreamHorn",
+        "ID": 434289516
+    },
+    "Super Speedy Pink Potion": {
+        "Name": "PinkPotion",
+        "ID": 939145471
+    },
+    "Poisonous Butterfly": {
+        "Name": "Butterfly",
+        "ID": 117498793
+    },
+    "Ferdinand": {
+        "Name": "Ferdinand",
+        "ID": 1230839551
+    },
+    "The Gigantic Tome of Eggs": {
+        "Name": "TheTomeOfEggs",
+        "ID": 217901450
+    },
+    "Water Balloon": {
+        "Name": "WaterBalloon",
+        "ID": 29100543
+    },
+    "Delete Tool": {
+        "Name": "BuildDelete",
+        "ID": 16201628
+    },
+    "Yeti Hunter Spear": {
+        "Name": "YetiHunterSpear",
+        "ID": 2646379006
+    },
+    "Boomerang": {
+        "Name": "Boomerang",
+        "ID": 18479357
+    },
+    "Red Sparkle Time Claymore": {
+        "Name": "SparkletimeClaymore",
+        "ID": 221181437
+    },
+    "REKTangle Board": {
+        "Name": "REKTangleBoard",
+        "ID": 202083069
+    },
+    "Black Panther - Claws": {
+        "Name": "BlackPantherClaws",
+        "ID": 1363020083
+    },
+    "Dragon's Breath Potion": {
+        "Name": "DragonHead",
+        "ID": 70476435
+    },
+    "Super Freeze Cannon": {
+        "Name": "NewFreezeRay",
+        "ID": 102705402
+    },
+    "Neon Bloxster": {
+        "Name": "NeonBloxter",
+        "ID": 257811449
+    },
+    "Leprachaun's Gold Rainbow Laser Gun": {
+        "Name": "GoldRainbowGun",
+        "ID": 149612200
+    },
+    "Portable Justice": {
+        "Name": "PortableJustice",
+        "ID": 82357101
+    },
+    "Blobby Companion": {
+        "Name": "Blobby",
+        "ID": 1981809272
+    },
+    "Flaming Hedgehog Cannon": {
+        "Name": "FlamingHedgehogCannon",
+        "ID": 60357972
+    },
+    "Orinthian Bow": {
+        "Name": "OrinthianBow",
+        "ID": 111518891
+    },
+    "Deluxe Beach Ball": {
+        "Name": "Beach Ball",
+        "ID": 112591865
+    },
+    "Spam Cannon": {
+        "Name": "SpamGun",
+        "ID": 65554735
+    },
+    "September Promo Placeholder": {
+        "Name": "Artemis Bow",
+        "ID": 91445669
+    },
+    "Crystal Sphere Drop": {
+        "Name": "BallDrop",
+        "ID": 125859450
+    },
+    "Skull Gladius - a CVS exclusive item": {
+        "Name": "SkullGladius",
+        "ID": 64372667
+    },
+    "Ham Fists": {
+        "Name": "HamFists",
+        "ID": 168142114
+    },
+    "Camping Machete": {
+        "Name": "CampingMachete",
+        "ID": 123234673
+    },
+    "Bad Bad Bunny": {
+        "Name": "Easterbomby",
+        "ID": 24839406
+    },
+    "ROBLOX Blimp": {
+        "Name": "ROBLOX Blimp",
+        "ID": 160199141
+    },
+    "Roman Candle": {
+        "Name": "RomanCandle",
+        "ID": 43245530
+    },
+    "Roman Candle2(Sparkler)": {
+        "Name": "RomanCandle",
+        "ID": 43245478
+    },
+    "Roman Candle(FireWork)": {
+        "Name": "RomanCandle",
+        "ID": 12562390
+    },
+    "The Iron Trial": {
+        "Name": "The Iron Trial Excerpt",
+        "ID": 186521342
+    },
+    "Paint Bucket": {
+        "Name": "PaintBucket",
+        "ID": 18474459
+    },
+    "BuildGroupDragger": {
+        "Name": "BuildGroupDragger",
+        "ID": 36334760
+    },
+    "Laserface": {
+        "Name": "LaserFaceplate",
+        "ID": 159199204
+    },
+    "PartSelection": {
+        "Name": "Stamper 2.0",
+        "ID": 73089166
+    },
+    "Knights of the Splintered Skies: Ballista": {
+        "Name": "SkyBallista",
+        "ID": 55917432
+    },
+    "Skull Cutlass": {
+        "Name": "SkullCutlass",
+        "ID": 144510568
+    },
+    "Nova Wand(Duplicate)": {
+        "Name": "MasterStaffOfSparks",
+        "ID": 27860445
+    },
+    "Crimson Periastron Mu": {
+        "Name": "CrimsonPeriastron",
+        "ID": 99119240
+    },
+    "Professor Poopypants' Ray Gun": {
+        "Name": "ProfessorGun",
+        "ID": 815545408
+    },
+    "Dragon Slayers Sword and Shield": {
+        "Name": "DragonSlayersSword&Shield",
+        "ID": 73232803
+    },
+    "??": {
+        "Name": "Tool",
+        "ID": 66416590
+    },
+    "??(Duplicate)": {
+        "Name": "Tool",
+        "ID": 66416602
+    },
+    "Nerf Shoes": {
+        "Name": "Nerf Shoes",
+        "ID": 108899214
+    },
+    "Silver Snowflake": {
+        "Name": "Snow Star",
+        "ID": 19643249
+    },
+    "Knights of Redcliff: Bow and Arrow": {
+        "Name": "Phoenix Bow",
+        "ID": 49929776
+    },
+    "Pirate Lieutenant's Cutlass": {
+        "Name": "PirateCutlass",
+        "ID": 48159648
+    },
+    "Red Futurion Blaster": {
+        "Name": "Blaster",
+        "ID": 91658290
+    },
+    "CloneTool": {
+        "Name": "Clone Tool",
+        "ID": 73089204
+    },
+    "The Kingdom of Wrenly: The Lost Stone": {
+        "Name": "Wrenly Book",
+        "ID": 150927798
+    },
+    "Zephanon Phaser and Shield": {
+        "Name": "BerserkerGunAndShield",
+        "ID": 69567827
+    },
+    "Death's Trident: A Walmart Exclusive Item": {
+        "Name": "DeathTrident",
+        "ID": 62827106
+    },
+    "Earth's Might Staff": {
+        "Name": "Earth Might Staff",
+        "ID": 102705386
+    },
+    "Ice Axe": {
+        "Name": "Ice Axe",
+        "ID": 46360870
+    },
+    "Incinerator 6000": {
+        "Name": "IncinerateBlaster",
+        "ID": 102705430
+    },
+    "Gravity Gun": {
+        "Name": "GravityGun",
+        "ID": 34901961
+    },
+    "Flaming Staff of the Nefarious Red Wizard": {
+        "Name": "FireStaff",
+        "ID": 243777016
+    },
+    "Riot Shield and Billy Club Set": {
+        "Name": "BillyClubRiotShield",
+        "ID": 82357079
+    },
+    "Terratronic Power Sword - A Gamestop Exclusive": {
+        "Name": "Electric Blade",
+        "ID": 91517984
+    },
+    "Virtual BLOXcon Power Sword": {
+        "Name": "LazerSword",
+        "ID": 130167063
+    },
+    "Captain Underpants Book": {
+        "Name": "Capt. Underpants Book",
+        "ID": 129457095
+    },
+    "BuildConfiguration": {
+        "Name": "BuildConfiguration",
+        "ID": 36270159
+    },
+    "BuildConfiguration(Duplicate)": {
+        "Name": "BuildConfiguration",
+        "ID": 55027987
+    },
+    "Ultraviolet Laser Oculus": {
+        "Name": "XRayBlaster",
+        "ID": 113299556
+    },
+    "Sword Fish": {
+        "Name": "EelSword",
+        "ID": 54130543
+    },
+    "Lucky Laser Gun": {
+        "Name": "LeprechaunLaser",
+        "ID": 149612167
+    },
+    "Dual Darkhearts": {
+        "Name": "DualDarkhearts",
+        "ID": 108149175
+    },
+    "Toxic Goo Trap": {
+        "Name": "Blob",
+        "ID": 79446395
+    },
+    "Wizards of the Astral Isles: Limb Stretching Spell": {
+        "Name": "Elastica Magica",
+        "ID": 106701702
+    },
+    "Crazy Chicken Bow": {
+        "Name": "ChickenBow",
+        "ID": 153938986
+    },
+    "Captain McGee's Throwin' Axe: A CVS Exclusive Item": {
+        "Name": "PirateAxe",
+        "ID": 64869906
+    },
+    "Hot Dog ": {
+        "Name": "HotDogContest",
+        "ID": 29939404
+    },
+    "Korblox Deathspeaker's Spell Book": {
+        "Name": "KorbloxSpellBook",
+        "ID": 59848474
+    },
+    "The Londoner's Brolly": {
+        "Name": "UmbrellaScript",
+        "ID": 124908832
+    },
+    "Dragonfire Sword": {
+        "Name": "DragonSword",
+        "ID": 55194474
+    },
+    "Sapphire Rapid Fire Shocker": {
+        "Name": "Shock Laser",
+        "ID": 108875237
+    },
+    "Flaming Mace": {
+        "Name": "FlameMace",
+        "ID": 147143848
+    },
+    "Make It Rain": {
+        "Name": "MakeItRain",
+        "ID": 99797403
+    },
+    "Snowball Cannon": {
+        "Name": "SnowCannon",
+        "ID": 19704172
+    },
+    "Danger Dagger": {
+        "Name": "Dagger",
+        "ID": 96669682
+    },
+    "BuildSurface": {
+        "Name": "BuildSurface",
+        "ID": 58901575
+    },
+    "Dragon Hunter Spear": {
+        "Name": "Spear",
+        "ID": 134111541
+    },
+    "Flaming Dragon Slayer Bo Staff": {
+        "Name": "DragonBoStaff",
+        "ID": 73232786
+    },
+    "Wizards of the Astral Isles: Rat Plague Summoner": {
+        "Name": "RatStaff",
+        "ID": 106701564
+    },
+    "Dagger of Shattered Dimensions": {
+        "Name": "DaggerOfShatteredDimensions",
+        "ID": 71037101
+    },
+    "Sea Dragon": {
+        "Name": "SeaDragonMount",
+        "ID": 2548992615
+    },
+    "Rapid Launch Blaster": {
+        "Name": "Assault Laser",
+        "ID": 98411436
+    },
+    "Ivory Periastron": {
+        "Name": "IvoryPeriastron",
+        "ID": 108158379
+    },
+    "DarkAge Nunchuks": {
+        "Name": "DarkageNunchucks",
+        "ID": 160189476
+    },
+    "Penguin Potion": {
+        "Name": "Penguin Potion",
+        "ID": 46360821
+    },
+    "Scythe": {
+        "Name": "Scythe",
+        "ID": 28275809
+    },
+    "Stop Hitting Yourself": {
+        "Name": "StopHittingYourself",
+        "ID": 91360104
+    },
+    "Ace Ranger Axe": {
+        "Name": "MadMaxAxe",
+        "ID": 128210518
+    },
+    "RecentParts": {
+        "Name": "RecentParts",
+        "ID": 73089229
+    },
+    "Lightning Bolt Sword- A Gamestop Exclusive": {
+        "Name": "LightningSword",
+        "ID": 96501454
+    },
+    "Galaxy Zack: Hello, Nebulon! ": {
+        "Name": "GZ Book",
+        "ID": 110204666
+    },
+    "Big Apple Launcher": {
+        "Name": "AppleGun",
+        "ID": 125859385
+    },
+    "Taco Launcher": {
+        "Name": "TacoLauncher",
+        "ID": 170903868
+    },
+    "Five Kingdoms: Sky Raiders": {
+        "Name": "Five Kingdoms",
+        "ID": 149222558
+    },
+    "Mother's Day Card": {
+        "Name": "MothersDayCard",
+        "ID": 26777502
+    },
+    "BuildMaterial": {
+        "Name": "BuildMaterial",
+        "ID": 58901405
+    },
+    "BuildDelete": {
+        "Name": "DeleteTool",
+        "ID": 36738185
+    },
+    "BuildDelete(Duplicate)": {
+        "Name": "DeleteTool",
+        "ID": 73089190
+    },
+    "Nightfall Elixir": {
+        "Name": "NightfallElixir",
+        "ID": 94333296
+    },
+    "Voyagers ": {
+        "Name": "Voyagers Book",
+        "ID": 334523653
+    },
+    "The Federal Reserve": {
+        "Name": "Money Backpack",
+        "ID": 81847637
+    },
+    "Mardi Gras Necklace Shooter": {
+        "Name": "MardiGrasNecklaceShooter",
+        "ID": 147937415
+    },
+    "Cloud 9 Snowboard": {
+        "Name": "NewMoonSnowboard",
+        "ID": 139586244
+    },
+    "DarkAge Bo Staff": {
+        "Name": "DarkageBoStaff",
+        "ID": 160189629
+    },
+    "Rubber Chicken Launcher": {
+        "Name": "ChickenGun",
+        "ID": 121385193
+    },
+    "Telamonster: the Chaos Edge": {
+        "Name": "TelamonsterTheChaosEdge",
+        "ID": 93136746
+    },
+    "Ninja Claws": {
+        "Name": "NinjaKnuckles",
+        "ID": 160189871
+    },
+    "Quill of the President": {
+        "Name": "PresidentsQuill",
+        "ID": 146047220
+    },
+    "Music Blaster": {
+        "Name": "MusicGun",
+        "ID": 152187131
+    },
+    "Dreamwalker's Dagger": {
+        "Name": "DreamWalkerDagger",
+        "ID": 65079090
+    },
+    "Chameleon Potion": {
+        "Name": "ChameleonPotion",
+        "ID": 61916137
+    },
+    "Laser-saw": {
+        "Name": "LaserChainsaw",
+        "ID": 159199218
+    },
+    "Unfriendly Turkey Friend": {
+        "Name": "Turkey",
+        "ID": 136170437
+    },
+    "Trusty Blade": {
+        "Name": "Basic Blade",
+        "ID": 96669687
+    },
+    "Elixir of Dreams": {
+        "Name": "ElixirOfDreams",
+        "ID": 65082246
+    },
+    "Grim Axe": {
+        "Name": "GrimAxe",
+        "ID": 107458531
+    },
+    "Knights of the Splintered Skies: Sword": {
+        "Name": "KnightsOfSplinteredSkiesSword",
+        "ID": 156467926
+    },
+    "Saw Sword": {
+        "Name": "Saw Sword",
+        "ID": 54694324
+    },
+    "Celestial Staff": {
+        "Name": "CelestialStaff",
+        "ID": 89203876
+    },
+    "Sword Punch": {
+        "Name": "DaggerPunch",
+        "ID": 147143881
+    },
+    "Orinthian Blaster 3777": {
+        "Name": "Laser Pistol",
+        "ID": 92628074
+    },
+    "Sword of the Unseen Eye": {
+        "Name": "SwordOfCosmos",
+        "ID": 71422361
+    },
+    "Cool Story Air Conditioner": {
+        "Name": "AC",
+        "ID": 119101643
+    },
+    "Celestial Sword - A Walmart Exclusive": {
+        "Name": "AngelSword",
+        "ID": 89203895
+    },
+    "Gravity Disruptor": {
+        "Name": "GravityDisruptor",
+        "ID": 101110605
+    },
+    "Newtrat's Tuskinator": {
+        "Name": "WalrusGun",
+        "ID": 124126871
+    },
+    "Conjuror's Fist ": {
+        "Name": "ConjurorsFist",
+        "ID": 90718686
+    },
+    "RotateTool": {
+        "Name": "RotateTool",
+        "ID": 58880579
+    },
+    "Ghastly Ghoul Gun": {
+        "Name": "Ghostizer Gun",
+        "ID": 131372632
+    },
+    "Alien on a Rampage Book": {
+        "Name": "AOR Book",
+        "ID": 82711866
+    },
+    "Explosive Spy Pen": {
+        "Name": "Pen Bomb",
+        "ID": 95258660
+    },
+    "Furno's Sword and Shield": {
+        "Name": "FurnoTool",
+        "ID": 105189286
+    },
+    "Sword of the Seas": {
+        "Name": "SwordOfTheSeas",
+        "ID": 155661985
+    },
+    "Korblox - Fallen's Spine Blade": {
+        "Name": "KorbloxSword",
+        "ID": 114020557
+    },
+    "W.A.R.P.: The Reluctant Assassin ": {
+        "Name": "WARP Book",
+        "ID": 114491710
+    },
+    "Chair": {
+        "Name": "SorcusChair",
+        "ID": 96095000
+    },
+    "Evil Green Science Goo": {
+        "Name": "PotionOfGreenSlime",
+        "ID": 154727487
+    },
+    "Galactic Hot Dogs": {
+        "Name": "AOR Book",
+        "ID": 253485047
+    },
+    "Serpent Staff": {
+        "Name": "SnakeStaff",
+        "ID": 82707577
+    },
+    "Sword of the Highlander": {
+        "Name": "ClaymoreSword",
+        "ID": 12187319
+    },
+    "Summer Camp Arm Floaties": {
+        "Name": "BFGArmFloaties",
+        "ID": 433922317
+    },
+    "Dual Illumina": {
+        "Name": "DualIllumina",
+        "ID": 101191388
+    }
+}
